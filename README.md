@@ -19,7 +19,7 @@ Before using this script, make sure you have the following:
 3. Customize the script by setting the following parameters:
 
 - `craigslist_url`: The Craigslist URL for your location and desired category (e.g., "https://denver.craigslist.org/search/bia" for bikes).
-- `keywords`: A list of keywords to search for. Separate multiple keywords with a pipe symbol ('|') for an OR search.
+- `keywords`: A list of keywords to search for.
 - `location`: Your ZIP code or location.
 - `search_radius`: The search radius in miles from your location.
 
