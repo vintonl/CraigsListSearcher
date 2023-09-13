@@ -1,2 +1,2 @@
 # CraigsListSearcher
-Craigs List Searcher
+CraigsList Searcher
