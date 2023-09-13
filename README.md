@@ -7,7 +7,7 @@ This Python script allows you to scrape bike listings from Craigslist based on s
 Before using this script, make sure you have the following:
 
 - Python 3 installed on your system.
-- Required Python packages installed. You can install them using `pip`:
+- Required Python packages installed: beautifulsoup4
 
 
 ## Usage
