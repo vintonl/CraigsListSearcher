@@ -31,9 +31,7 @@ Before using this script, make sure you have the following:
     
 5. The script will begin searching Craigslist for listings that match your keywords within the specified location and radius. It will display information about each matching listing, including the title, price, location, description, and a direct link to the listing.
 
-6. You can also filter the results to find listings that mention "disc brakes" in their title or description.
-
-7. Review the scraped data and use it for your intended purposes, such as finding bike listings that match your criteria.
+6. Review the scraped data and use it for your intended purposes, such as finding bike listings that match your criteria.
 
 ## Notes
 
