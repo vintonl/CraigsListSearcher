@@ -1,6 +1,6 @@
 # Craigslist Bike Listing Scraper
 
-This Python script allows you to scrape bike listings from Craigslist based on specific keywords, location, and search radius. It retrieves information such as titles, prices, locations, descriptions, and links to individual listings. Additionally, you can filter the listings to find bikes with disc brakes.
+This Python script allows you to scrape bike listings from Craigslist based on specific keywords, location, and search radius. It retrieves information such as titles, prices, locations, descriptions, and links to individual listings.
 
 ## Prerequisites
 
